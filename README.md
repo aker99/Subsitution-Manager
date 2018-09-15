@@ -2,7 +2,7 @@
  It's a C++ based project. Main purpose of this project is to manage teachers data and create a subsitution of those who are absent.
  
 ## BACKEND : 
-  Data File(It will automatically form once you run it for 1st time)
+  Data File(It will automatically created once you run it for 1st time)
 
 ## Compiler : Turbo C++
 
